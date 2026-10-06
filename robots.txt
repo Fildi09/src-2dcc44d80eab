@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://golden-panda.onrender.com/sitemap.xml
+Sitemap: https://golden-panda-s5up.onrender.com/sitemap.xml
